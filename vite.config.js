@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/HiveDefense/', // Replace with your repository name
+  base: '/', // Changed to root path since you're using a custom domain
 })
