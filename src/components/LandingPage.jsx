@@ -68,7 +68,7 @@ export default function LandingPage() {
           className="text-5xl md:text-7xl font-bold mb-6 opacity-0 animate-fadeIn 
                      bg-gradient-to-r from-yellow-500 to-yellow-200 bg-clip-text text-transparent"
         >
-          HiveDefense
+          Hive Defense
         </h1>
 
         {/* Subtle Tagline */}
